@@ -1,4 +1,5 @@
 /* Fonts and colors */
+
 body {
   color: #494949;
   font-size: 18px;
@@ -29,7 +30,9 @@ footer a {
   color: white;
   padding: 10px;
 }
+
 /* Custom design */
+
 .banner {
   background-image: url("https://source.unsplash.com/random/1000x500");
   background-size: cover;
